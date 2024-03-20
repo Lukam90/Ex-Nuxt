@@ -11,8 +11,6 @@
 </template>
 
 <script setup>
-import ProductCard from '../../components/ProductCard.vue';
-
 definePageMeta({
   layout: "products"
 })
